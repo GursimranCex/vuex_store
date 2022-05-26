@@ -16,7 +16,7 @@
   </div>
 </template>
 <script>
-import { mapActions } from "vuex";
+import { mapActions } from "vuex"; // Added for testing purposes only
 export default {
   data() {
     return {
